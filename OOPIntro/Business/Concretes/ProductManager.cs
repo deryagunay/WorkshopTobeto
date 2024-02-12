@@ -16,7 +16,7 @@ namespace OOPIntro.Business.Concretes
     public class ProductManager:IProductService
     {
         IProductDal _productDal;
-
+        //github deneme
         public ProductManager(IProductDal productDal)
         {
             _productDal = productDal;
