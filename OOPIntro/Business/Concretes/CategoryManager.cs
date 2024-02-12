@@ -12,7 +12,9 @@ using System.Threading.Tasks;
 
 namespace OOPIntro.Business.Concretes
 {
-   
+   /// <summary>
+   /// githuba yüklenme testi
+   /// </summary>
     public class CategoryManager:ICategoryService
     {
         ICategoryDal _categoryDal;
